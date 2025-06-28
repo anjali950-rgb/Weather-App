@@ -41,5 +41,13 @@ With your actual API key.
 6.	Error Handling
     If the city is not found or the API fails, a user-friendly error message is shown.
 
- 
+ # Future Enhancements
+•	5 – 7 Day Forecast – Show extended weather forecasts for better planning.
+•	Hourly Forecast – Provide weather updates on an hourly basis.
+•	Geolocation Support – Automatically detect the user’s location to show local weather.
+•	Weather Alerts – Send notifications for severe weather conditions(storms, heatwaves, etc.).
+•	Multi-City Tracking – Allow users to save and switch between multiple cities.
+•	Dark Mode – Include a night-friendly interface.
+•	Voice Search – Enable users to ask for weather updates using voice commands.
+
 
